@@ -1,0 +1,3 @@
+[submodule "elec/elec_lib_Altium"]
+	path = elec/elec_lib_Altium
+	url = https://github.com/I-Grebot/elec_lib_Altium
